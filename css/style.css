@@ -1,0 +1,14 @@
+
+.nav {
+    display: flex;
+    
+}
+
+
+
+.click {
+    border-color: solid 2px red;
+    color: red;
+    flex-direction: row;
+    
+}
